@@ -4,7 +4,7 @@ var fr24_airport_overlay_data = [
 		neBoundLng: -118.3736081797943,
 		swBoundLat: 33.92811578400366,
 		swBoundLng: -118.43865761279312,
-		name: "KLAX",
+		name: "Los Angeles Airport",
 		IATA: "LAX",
 		ICAO: "KLAX",
 		uploader: "JScott",
