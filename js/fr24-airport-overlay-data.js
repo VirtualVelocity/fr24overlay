@@ -25,4 +25,17 @@ var fr24_airport_overlay_data = [
 		date: 2014,
 		image: "YSSY.png"
 	},
+    {
+		neBoundLat: -37.643364169482616,
+		neBoundLng: 144.86994476936343,
+		swBoundLat: -37.69333429727279,
+		swBoundLng: 144.80999426232893,
+		name: "Melbourne Airport",
+		IATA: "MEL",
+		ICAO: "YMML",
+		uploader: "JScott",
+		email: "",
+		date: 2017,
+		image: "YMML.png"
+	},
 	]
