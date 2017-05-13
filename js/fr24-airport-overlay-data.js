@@ -1,7 +1,7 @@
 var fr24_airport_overlay_data = [
     {
-		neBoundLat: 33.953684,
-		neBoundLng: -118.584809,
+		neBoundLat: 33.955800,
+		neBoundLng: -118.373523,
 		swBoundLat: 33.925903,
 		swBoundLng: -118.440020,
 		name: "KLAX",
