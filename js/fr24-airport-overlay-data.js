@@ -4,7 +4,7 @@ var fr24_airport_overlay_data = [
 		neBoundLng: -118.3736081797943,
 		swBoundLat: 33.92811578400366,
 		swBoundLng: -118.4390867662355,
-		name: "Los Angeles Airport",
+		name: "Los Angeles International Airport",
 		IATA: "LAX",
 		ICAO: "KLAX",
 		uploader: "JScott",
@@ -17,7 +17,7 @@ var fr24_airport_overlay_data = [
 		neBoundLng: 151.20755110740658,
 		swBoundLat: -33.9812189189758,
 		swBoundLng: 151.14664332389827,
-		name: "Sydney Airport",
+		name: "Sydney International Airport",
 		IATA: "SYD",
 		ICAO: "YSSY",
 		uploader: "mkyung",
@@ -30,7 +30,7 @@ var fr24_airport_overlay_data = [
 		neBoundLng: 144.86994476936343,
 		swBoundLat: -37.69333429727279,
 		swBoundLng: 144.80999426232893,
-		name: "Melbourne Airport",
+		name: "Melbourne International Airport",
 		IATA: "MEL",
 		ICAO: "YMML",
 		uploader: "JScott",
@@ -51,4 +51,17 @@ var fr24_airport_overlay_data = [
 		date: 2017,
 		image: "YMML.png"
 	},*/
+    {
+		neBoundLat: 40.665,
+		neBoundLng: -73.75,
+		swBoundLat: 40.6183,
+		swBoundLng: -73.8317,
+		name: "John F Kennedy International Airport",
+		IATA: "JFK",
+		ICAO: "KJFK",
+		uploader: "mkyung",
+		email: "",
+		date: 2014,
+		image: "KJFK.png"
+	},
 	]
