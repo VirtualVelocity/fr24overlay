@@ -1,9 +1,9 @@
 var fr24_airport_overlay_data = [
     {
-		neBoundLat: 33.955800,
-		neBoundLng: -118.373523,
-		swBoundLat: 33.925903,
-		swBoundLng: -118.440020,
+		neBoundLat: 33.511049,
+		neBoundLng: -118.439783,
+		swBoundLat: 33.951652,
+		swBoundLng: -118.373410,
 		name: "KLAX",
 		IATA: "LAX",
 		ICAO: "KLAX",
