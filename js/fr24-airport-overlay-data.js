@@ -1,6 +1,6 @@
 var fr24_airport_overlay_data = [
     {
-		neBoundLat: 33.33.95453311718312,
+		neBoundLat: 33.95453311718312,
 		neBoundLng: -118.3736081797943,
 		swBoundLat: 33.92811578400366,
 		swBoundLng: -118.4390867662355,
